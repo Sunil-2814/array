@@ -53,3 +53,4 @@ var person = {
         return this.fname + " " + this.lname
     }
 }
+var person2
